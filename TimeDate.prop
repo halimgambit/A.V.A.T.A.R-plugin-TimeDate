@@ -1,0 +1,13 @@
+{
+	"modules": { 
+		"TimeDate": {
+			"version": "1.0",
+			"name": "heure_jour",
+			"rules": {
+				"getHour": ["hour","time"],
+				"getDay": ["day","date"]
+			}
+		}
+	}
+}
+			
