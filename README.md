@@ -11,10 +11,10 @@ donne moi la date,
 nous somme quel jour.
 
 # Multi-room
-The Horoscope plugin is fully multi-room.
+The TimeDate plugin is fully multi-room.
 
 # Multi-language
-The Horoscope plugin relies solely on the system's available languages.
+The TimeDate plugin relies solely on the system's available languages.
 
 
  <table style="border: none;">
