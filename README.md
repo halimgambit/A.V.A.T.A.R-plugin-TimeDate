@@ -5,10 +5,10 @@ This plugin is an add-on for the [A.V.A.T.A.R](https://avatar-home-automation.gi
 🎯 Usage
 Commandes :
 
-il est quel heure
-donne moi l'heure
-donne moi la date
-nous somme quel jour
+il est quel heure,
+donne moi l'heure,
+donne moi la date,
+nous somme quel jour.
 
 # Multi-room
 The Horoscope plugin is fully multi-room.
