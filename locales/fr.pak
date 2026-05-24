@@ -1,0 +1,13 @@
+{
+  "speech": {
+    "hour": "Il est $$ à $$",
+    "day": "Aujourd’hui, nous sommes le $$",
+    "unknownTown": "Je ne trouve pas la ville $$",
+    "errorHttp": "Je ne trouve pas l'heure pour $$",
+     "errorAccess": "Impossible de récupérer la date"
+  },
+  "plugin": {
+    "from": "depuis",
+    "to": "vers"
+  }
+}
